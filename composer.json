@@ -1,5 +1,5 @@
 {
-    "name": "coroowicaksono/chart-js-integration",
+    "name": "sucitivel/chart-js-integration",
     "description": "A Simple Dashboard Chart in Laravel Nova using Chart JS. Starting create your own dashboard with Chart JS Integration can save your time and help you maintain consistency across standard elements such as Bar, Stacked, Line, Area, Doughnut and Pie Chart.",
     "keywords": [
         "laravel",
@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel/nova": "^4.0"
+        "laravel/nova": "^5.0"
     },
     "autoload": {
         "psr-4": {
